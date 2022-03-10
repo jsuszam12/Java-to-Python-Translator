@@ -1,0 +1,10 @@
+public void boolSection() {
+        int x = 5;
+        int y = 22;
+        int z = 1;
+        System.out.println(x > y && x != z);
+        System.out.println(x > z || z == 4);
+
+        System.out.println("Reached the end of Boolean Logic Section");
+    }
+
